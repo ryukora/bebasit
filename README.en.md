@@ -71,7 +71,7 @@
 <details>
 <summary>Click to open the announcement</summary>
 
-### Plain DNS is only usable within the allowed Indonesian and Singaporean IP range to prevent DDOS attacks. If you need your IP address to be allowed to be listed or want to request a list of allow-listed IPs, please contact us or join our [Discord](https://discord.gg/bebasid-630415907021389825).
+### Plain DNS is only usable within the allowed Indonesian and Singaporean IP range to prevent DDOS attacks. If you need your IP address to be allowed to be listed or want to request a list of allow-listed IPs, please contact us or join our [Discord Server](https://discord.gg/bebasid-630415907021389825) / [Telegram Group](https://t.me/bebasidbykini) or [WhatsApp Group](https://chat.whatsapp.com/Jmn5Uv4UYj0GdQooI1Jwbi).
 
 #
 
@@ -143,7 +143,6 @@ For Internet Service Providers (ISPs) that block DoH/DoT domains, please contact
   + [List of Questions](#list-of-questions)
     - [Contributing, Question and Request](#contributing-question-and-request)
     - [Frequently Asked Questions](#frequently-asked-questions)
-  + [Donate Us](#donate-us)
   + [License](#license)
   + [Honorable Mentions](#honorable-mentions)
   + [Terms and Conditions](#terms-and-conditions)
@@ -219,7 +218,7 @@ If you have any requests or bug reports, please [open a new issue](https://githu
 
 ### <ins>Frequently Asked Questions</ins>
 
-If you have any problems using [BebasIT / BebasID IT](#bebasit--bebasid-it), please head to [Discord](https://discord.gg/EKrxZyu) or send an email to [`dukungan@bebasid.com`](mailto:dukungan@bebasid.com) with the subject **BebasIT: [Your problem/question]**.
+If you have any problems using [BebasIT / BebasID IT](#bebasit--bebasid-it), please head to [Discord Server](https://discord.gg/bebasid-630415907021389825) / [Telegram Group](https://t.me/bebasidbykini) / [WhatsApp Group](https://chat.whatsapp.com/Jmn5Uv4UYj0GdQooI1Jwbi) or send an email to [`dukungan@bebasid.com`](mailto:dukungan@bebasid.com) with the subject **BebasIT: [Your problem/question]**.
 
 <!--
 ## Donate us:
